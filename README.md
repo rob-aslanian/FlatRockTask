@@ -1,7 +1,7 @@
 # FlatRockTask
 
 
-For full perfomance , please run backend --> ```npm i && npm run app.js```
+For full perfomance , please run backend --> ```npm i && node app.js```
 
 ## Backend 
  - Node js 
